@@ -18,7 +18,7 @@
             </div>
 
             <div class="col-auto">
-                <button type="submit" class="btn btn-primary mb-3">Save</button>
+                <button type="submit" class="btn btn-primary mb-3">Save as</button>
             </div>
         </div>
 
