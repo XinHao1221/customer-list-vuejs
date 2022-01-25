@@ -12,5 +12,5 @@ export default {
   components: {
     CustomerList
   }
-} 
+}    
 </script>
