@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "name": "Kelvin",
+      "age": "13",
+      "email": "send@gmail.com",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "name": "Benson",
+      "age": 25,
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Xin Hao",
+      "age": 25,
+      "email": "abc@gmail.com"
+    }
+  ]
+}
